@@ -69,6 +69,7 @@ public static void main(String[] args)
 		}
 	}
     
+    
     // Use a panel and label to display the image
     JPanel  panel = new JPanel ();
     panel.add (new JLabel (new ImageIcon (img)));
